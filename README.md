@@ -1,6 +1,11 @@
 # hadronFS
 An In-Memory FileSystem in Java
 
+
+## See It In Action
+
+<img src="https://github.com/alivcor/hadronFS/raw/main/assets/hadronfs.gif"/>
+
 ## Usage
 
 ```java
