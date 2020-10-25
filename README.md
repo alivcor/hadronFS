@@ -1,7 +1,7 @@
 # hadronFS
-An In-Memory FileSystem in Java <sub>just for fun</sub>
 
-<img src="https://github.com/alivcor/hadronFS/raw/main/assets/hadronfs.png" style="max-width: 100px" width="200px"/>
+An In-Memory FileSystem in Java <sub><b>just for fun</b></sub>
+
 
 ## See It In Action
 
@@ -20,3 +20,5 @@ fs.ls("/");
 fs.ls("/home");
 fs.createFile("/home/einstein/", "relativity.txt", 1L, FileExtension.txt, "e = m*c**2");
 ```
+
+<img src="https://github.com/alivcor/hadronFS/raw/main/assets/hadronfs.png" style="max-width: 100px" width="200px"/>
