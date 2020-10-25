@@ -1,6 +1,6 @@
 # hadronFS
 
-An In-Memory FileSystem in Java <sub><b>just for fun</b></sub>
+An In-Memory FileSystem in Java (from scratch) <sub><b>just for fun</b></sub>
 
 
 ## See It In Action
